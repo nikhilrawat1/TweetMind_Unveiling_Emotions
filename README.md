@@ -47,12 +47,12 @@ Below are the averaged results of different models used for this task.
  
 Naive Bayes -0.9114
 
-![](Readme/nb.png)
+![](Readme/nb.PNG)
 
 LSTM-0.9856
 
-![](Readme/lstm.png)
+![](Readme/lstm.PNG)
 
 BERT-0.9991
 
-![](Readme/bert.png)
+![](Readme/bert.PNG)
