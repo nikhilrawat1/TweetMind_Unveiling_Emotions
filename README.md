@@ -11,7 +11,7 @@ The goal of this experiment is to perform sentiment analysis on random tweets an
 - **Sentiment140**: the **/kaggle/input/sentimental-analysis-for-tweets/sentiment_tweets3.csv** dataset containing tweets from the Twitter API with the 6 following attributes: Index, message to examine, label (depression result). For the classification task, I balance the dataset in such a way that number of depressing tweet and non depressing tweets are same
 
 The two datasets are labelled respectively (`0` denotes normal tweets, `1` denotes depressive tweets) and shuffle-merged into one big dataset 
-![](Readme/data.png)
+![](Readme/data.PNG)
 ### Preprocessing
 
 To prepare the data for training, I remove bad symbols, stop words, punctuations, and expand contractions from the tweets. The tweets are then tokenized. 
